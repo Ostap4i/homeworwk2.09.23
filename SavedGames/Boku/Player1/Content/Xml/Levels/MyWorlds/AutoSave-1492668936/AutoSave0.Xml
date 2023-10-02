@@ -1,0 +1,929 @@
+<?xml version="1.0"?>
+<XmlWorldData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <id>bb4a8337-e09d-49e7-ac68-43c1ca84cfd3</id>
+  <name>Filter Tutorial</name>
+  <description>This tutorial will show you how to use filters.</description>
+  <LocalizedDescriptionDict>
+    <item>
+      <key>
+        <string>RU</string>
+      </key>
+      <value>
+        <string>Этот урок научит тебя использовать фильтры.</string>
+      </value>
+    </item>
+  </LocalizedDescriptionDict>
+  <descJustification>Left</descJustification>
+  <creator>Guest</creator>
+  <LinkedFromLevel xsi:nil="true" />
+  <LinkedToLevel xsi:nil="true" />
+  <lastWriteTime>2023-09-02T12:03:22.8979136Z</lastWriteTime>
+  <BokuVersion>1.6.18.0</BokuVersion>
+  <KCodeVersion>10</KCodeVersion>
+  <rating>1</rating>
+  <challenge>false</challenge>
+  <challengeID>0</challengeID>
+  <stuffFilename>Xml\Levels\MyWorlds\Stuff\AutoSave-1492668936\AutoSave0.Xml</stuffFilename>
+  <preGame>World Description</preGame>
+  <preGameLogo />
+  <dirty>false</dirty>
+  <genres>1073972224</genres>
+  <glassWalls>true</glassWalls>
+  <showCompass>true</showCompass>
+  <showResourceMeter>true</showResourceMeter>
+  <enableResourceLimiting>true</enableResourceLimiting>
+  <waveHeight>0.199999973</waveHeight>
+  <waterStrength>0.2</waterStrength>
+  <cameraSpringStrength>1</cameraSpringStrength>
+  <fixedCamera>false</fixedCamera>
+  <fixedCameraFrom>
+    <X>30.3222122</X>
+    <Y>30.6149178</Y>
+    <Z>5.37896061</Z>
+  </fixedCameraFrom>
+  <fixedCameraAt>
+    <X>26.236393</X>
+    <Y>26.2113934</Y>
+    <Z>3.98759484</Z>
+  </fixedCameraAt>
+  <fixedCameraDistance>0</fixedCameraDistance>
+  <fixedCameraPitch>0</fixedCameraPitch>
+  <fixedCameraRotation>0</fixedCameraRotation>
+  <fixedOffsetCamera>false</fixedOffsetCamera>
+  <fixedOffset>
+    <X>0</X>
+    <Y>0</Y>
+    <Z>0</Z>
+  </fixedOffset>
+  <editCameraAt>
+    <X>0</X>
+    <Y>0</Y>
+    <Z>0</Z>
+  </editCameraAt>
+  <editCameraFrom>
+    <X>-10</X>
+    <Y>0</Y>
+    <Z>4</Z>
+  </editCameraFrom>
+  <editCameraRotation>0</editCameraRotation>
+  <editCameraPitch>-0.380506366</editCameraPitch>
+  <editCameraDistance>10.7703295</editCameraDistance>
+  <playCameraAt>
+    <X>-16.3142967</X>
+    <Y>-23.34444</Y>
+    <Z>0.447196245</Z>
+  </playCameraAt>
+  <playCameraFrom>
+    <X>-30.9472733</X>
+    <Y>-23.09597</Y>
+    <Z>12.88226</Z>
+  </playCameraFrom>
+  <playCameraValid>true</playCameraValid>
+  <followCameraDistance>30.007185</followCameraDistance>
+  <followCameraValid>false</followCameraValid>
+  <skyIndex>10</skyIndex>
+  <lightRig>Day</lightRig>
+  <windMin>0</windMin>
+  <windMax>0.5</windMax>
+  <debugPathFollow>false</debugPathFollow>
+  <debugDisplayCollisions>false</debugDisplayCollisions>
+  <debugDisplayLinesOfPerception>false</debugDisplayLinesOfPerception>
+  <debugDisplayCurrentPage>false</debugDisplayCurrentPage>
+  <uiVolume>1</uiVolume>
+  <foleyVolume>1</foleyVolume>
+  <musicVolume>1</musicVolume>
+  <startingCamera>false</startingCamera>
+  <startingCameraFrom>
+    <X>0</X>
+    <Y>0</Y>
+    <Z>0</Z>
+  </startingCameraFrom>
+  <startingCameraAt>
+    <X>0</X>
+    <Y>0</Y>
+    <Z>0</Z>
+  </startingCameraAt>
+  <startingCameraRotation>0</startingCameraRotation>
+  <startingCameraPitch>0</startingCameraPitch>
+  <startingCameraDistance>0</startingCameraDistance>
+  <showVirtualController>false</showVirtualController>
+  <touchGuiButtonSettings>
+    <TouchGUIButtonXmlSetting>
+      <color>White</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Black</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Grey</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Red</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Green</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Blue</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Orange</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Yellow</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Purple</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Pink</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+    <TouchGUIButtonXmlSetting>
+      <color>Brown</color>
+      <displayType>DT_Solid</displayType>
+      <label />
+    </TouchGUIButtonXmlSetting>
+  </touchGuiButtonSettings>
+  <scoreSettings>
+    <ScoreXmlSetting>
+      <color>White</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Black</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Grey</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Red</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Green</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Blue</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Orange</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Yellow</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Purple</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Pink</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+    <ScoreXmlSetting>
+      <color>Brown</color>
+      <visibility>Loud</visibility>
+      <persist>false</persist>
+      <label />
+    </ScoreXmlSetting>
+  </scoreSettings>
+  <xmlTerrainData2>
+    <virtualMapFile>Xml\Levels\Stuff\TerrainHeightMaps\b3e270ac-9e47-4568-86c5-9367cab20ca7.Map</virtualMapFile>
+    <cubeSize>0.5</cubeSize>
+    <waters />
+  </xmlTerrainData2>
+  <waterNormalMapTextureFilename>Textures\Terrain\WaterNormalMap</waterNormalMapTextureFilename>
+  <changeHistory>
+    <ChangeHistoryEntry>
+      <gamertag>scoy</gamertag>
+      <time>2010-11-11T04:45:59.0544364+02:00</time>
+    </ChangeHistoryEntry>
+  </changeHistory>
+  <checksum>1d8a453ea98ceaf29f719891feffb155</checksum>
+  <lastSaveTime>2023-09-02T12:03:22.8979136Z</lastSaveTime>
+  <saveTime>2023-09-02T12:03:22.897Z</saveTime>
+  <tutorialSteps>
+    <Step>
+      <GoalText>First Tutorial (Step 1/6)</GoalText>
+      <GamepadText>
+        This tutorial will teach you how to use Filters in your programming.
+        Filters allow you to be more specific about the things that your character senses.
+
+        Let's start with a simple case.
+      </GamepadText>
+      <MouseText>
+        This tutorial will teach you how to use Filters in your programming.
+        Filters allow you to be more specific about the things that your character senses.
+
+        Let's start with a simple case.
+      </MouseText>
+      <LocalizedMouseTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>
+              Этот урок научит тебя использовать фильтры в твоих программах.
+              Фильтры позволят тебе конкретизировать действия персонажа.
+
+              Давай начнем с простого случая.
+            </string>
+          </value>
+        </item>
+      </LocalizedMouseTextDict>
+      <TouchText>
+        This tutorial will teach you how to use Filters in your programming.
+        Filters allow you to be more specific about the things that your character senses.
+
+        Let's start with a simple case.
+      </TouchText>
+      <Comment>Intro text</Comment>
+      <DisplayMode>Modal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>MainMenu</TargetModeGamepad>
+      <TargetModeMouse>MainMenu</TargetModeMouse>
+      <TargetModeTouch>MainMenu</TargetModeTouch>
+    </Step>
+    <Step>
+      <GoalText>First Tutorial (Step 1/6)</GoalText>
+      <LocalizedGoalTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Фильтры (Шаг 1/6)</string>
+          </value>
+        </item>
+      </LocalizedGoalTextDict>
+      <GamepadText>
+        We will start with a world that already has some objects in it.  The world contains a Kodu &lt;kodu&gt; and several apples &lt;apple&gt; and rocks &lt;rock&gt;.
+
+        We're going to program Kodu &lt;kodu&gt; to move toward anything he sees.
+      </GamepadText>
+      <MouseText>
+        We will start with a world that already has some objects in it.  The world contains a Kodu &lt;kodu&gt; and several apples &lt;apple&gt; and rocks &lt;rock&gt;.
+
+        We're going to program Kodu &lt;kodu&gt; to move toward anything he sees.
+      </MouseText>
+      <LocalizedMouseTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>
+              Начнем с мира, на котором уже размещено несколько объектов.  В мире находится Kodu &lt;kodu&gt;, а также несколько яблок &lt;apple&gt; и камней &lt;rock&gt;.
+
+              Нужно запрограммировать Kodu &lt;kodu&gt;, чтобы он двигался ко всему, что видит.
+            </string>
+          </value>
+        </item>
+      </LocalizedMouseTextDict>
+      <TouchText>
+        We will start with a world that already has some objects in it.  The world contains a Kodu &lt;kodu&gt; and several apples &lt;apple&gt; and rocks &lt;rock&gt;.
+
+        We're going to program Kodu &lt;kodu&gt; to move toward anything he sees.
+      </TouchText>
+      <Comment>Intro text page 2</Comment>
+      <DisplayMode>Modal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>MainMenu</TargetModeGamepad>
+      <TargetModeMouse>MainMenu</TargetModeMouse>
+      <TargetModeTouch>MainMenu</TargetModeTouch>
+    </Step>
+    <Step>
+      <GoalText>Programming Kodu. (Step 1/6)</GoalText>
+      <LocalizedGoalTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Программирование Kodu &lt;kodu&gt; (Шаг 1/6)</string>
+          </value>
+        </item>
+      </LocalizedGoalTextDict>
+      <GamepadText>On the first row move the pencil cursor to the plus sign next to WHEN then press &lt;a&gt; to add &lt;sensor.eyes&gt;</GamepadText>
+      <MouseText>On the first row click on the plus sign next to WHEN and add &lt;sensor.eyes&gt;</MouseText>
+      <LocalizedMouseTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>В первой строчке щелкни на знак ПЛЮС после КОГДА, и добавь &lt;sensor.eyes&gt;</string>
+          </value>
+        </item>
+      </LocalizedMouseTextDict>
+      <TouchText>On the first row tap on the plus sign next to WHEN and add &lt;sensor.eyes&gt;</TouchText>
+      <DisplayMode>NonModal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>Programming</TargetModeGamepad>
+      <TargetModeMouse>Programming</TargetModeMouse>
+      <TargetModeTouch>Programming</TargetModeTouch>
+      <CompletionTest Name="Kode" Args="sensor.eyes" />
+    </Step>
+    <Step>
+      <GoalText>Programming Kodu &lt;kodu&gt; (Step 1/6)</GoalText>
+      <LocalizedGoalTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Программирование Kodu &lt;kodu&gt; (Шаг 1/6)</string>
+          </value>
+        </item>
+      </LocalizedGoalTextDict>
+      <GamepadText>
+        Now move the pencil cursor to the right of DO and add &lt;actuator.movement&gt;
+        When done you should have WHEN &lt;sensor.eyes&gt;  DO &lt;actuator.movement&gt;
+      </GamepadText>
+      <MouseText>
+        Now click on the plus sign to the right of DO and add &lt;actuator.movement&gt;
+        When done you should have WHEN &lt;sensor.eyes&gt;  DO &lt;actuator.movement&gt;
+      </MouseText>
+      <LocalizedMouseTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>
+              Теперь щелкни на знак ПЛЮС справа от ДЕЛАТЬ и добавь &lt;actuator.movement&gt;
+              У тебя должно получиться Когда &lt;sensor.eyes&gt; Делать &lt;actuator.movement&gt;
+            </string>
+          </value>
+        </item>
+      </LocalizedMouseTextDict>
+      <TouchText>
+        Now tap on the plus sign to the right of DO and add &lt;actuator.movement&gt;
+        When done you should have WHEN &lt;sensor.eyes&gt;  DO &lt;actuator.movement&gt;
+      </TouchText>
+      <DisplayMode>NonModal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>Programming</TargetModeGamepad>
+      <TargetModeMouse>Programming</TargetModeMouse>
+      <TargetModeTouch>Programming</TargetModeTouch>
+      <CompletionTest Name="Kode" Args="sensor.eyes actuator.movement" />
+    </Step>
+    <Step>
+      <GoalText>Programming Kodu &lt;kodu&gt; (Step 1/6)</GoalText>
+      <LocalizedGoalTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Программирование Kodu &lt;kodu&gt; (Шаг 1/6)</string>
+          </value>
+        </item>
+      </LocalizedGoalTextDict>
+      <GamepadText>
+        At the plus next to &lt;actuator.movement&gt; add &lt;selector.towardclosest&gt;
+        When done you should have WHEN &lt;sensor.eyes&gt;  DO &lt;actuator.movement&gt;&lt;selector.towardclosest&gt;
+      </GamepadText>
+      <MouseText>
+        At the plus next to &lt;actuator.movement&gt; add &lt;selector.towardclosest&gt;
+        When done you should have WHEN &lt;sensor.eyes&gt;  DO &lt;actuator.movement&gt;&lt;selector.towardclosest&gt;
+      </MouseText>
+      <LocalizedMouseTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>
+              Щелкни на ПЛЮС после &lt;actuator.movement&gt;, добавь &lt;selector.towardclosest&gt;
+              У тебя должно получиться Когда &lt;sensor.eyes&gt;  Делать &lt;actuator.movement&gt;&lt;selector.towardclosest&gt;
+            </string>
+          </value>
+        </item>
+      </LocalizedMouseTextDict>
+      <TouchText>
+        At the plus next to &lt;actuator.movement&gt; add &lt;selector.towardclosest&gt;
+        When done you should have WHEN &lt;sensor.eyes&gt;  DO &lt;actuator.movement&gt;&lt;selector.towardclosest&gt;
+      </TouchText>
+      <DisplayMode>NonModal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>Programming</TargetModeGamepad>
+      <TargetModeMouse>Programming</TargetModeMouse>
+      <TargetModeTouch>Programming</TargetModeTouch>
+      <CompletionTest Name="Kode" Args="sensor.eyes actuator.movement selector.towardclosest" />
+    </Step>
+    <Step>
+      <GoalText>Running the Game (Step 2/6)</GoalText>
+      <LocalizedGoalTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Запуск игры (Шаг 2/6)</string>
+          </value>
+        </item>
+      </LocalizedGoalTextDict>
+      <GamepadText />
+      <MouseText />
+      <TouchText />
+      <Comment>Done programming.  Pause...</Comment>
+      <DisplayMode>NonModal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>GamepadEditObject</TargetModeGamepad>
+      <TargetModeMouse>MouseEditObject</TargetModeMouse>
+      <TargetModeTouch>TouchEditObject</TargetModeTouch>
+      <CompletionTest Name="Timer" Args="0.5" />
+    </Step>
+    <Step>
+      <GoalText>Running the Game (Step 2/6)</GoalText>
+      <LocalizedGoalTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Запуск игры (Шаг 2/6)</string>
+          </value>
+        </item>
+      </LocalizedGoalTextDict>
+      <GamepadText>Okay, now we can play the game and see what happens.</GamepadText>
+      <MouseText>Okay, now we can play the game and see what happens.</MouseText>
+      <LocalizedMouseTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Oкей, теперь запусти игру и посмотри, что получилось.</string>
+          </value>
+        </item>
+      </LocalizedMouseTextDict>
+      <TouchText>Okay, now we can play the game and see what happens.</TouchText>
+      <DisplayMode>Modal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>GamepadEditObject</TargetModeGamepad>
+      <TargetModeMouse>MouseEditObject</TargetModeMouse>
+      <TargetModeTouch>MouseEditObject</TargetModeTouch>
+    </Step>
+    <Step>
+      <GoalText>Running the Game (Step 2/6)</GoalText>
+      <LocalizedGoalTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Запуск игры (Шаг 2/6)</string>
+          </value>
+        </item>
+      </LocalizedGoalTextDict>
+      <GamepadText />
+      <MouseText />
+      <TouchText />
+      <Comment> Run the game </Comment>
+      <DisplayMode>NonModal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>InGame</TargetModeGamepad>
+      <TargetModeMouse>InGame</TargetModeMouse>
+      <TargetModeTouch>InGame</TargetModeTouch>
+      <CompletionTest Name="Timer" Args="8" />
+    </Step>
+    <Step>
+      <GoalText>Running the Game (Step 2/6)</GoalText>
+      <LocalizedGoalTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Запуск игры (Шаг 2/6)</string>
+          </value>
+        </item>
+      </LocalizedGoalTextDict>
+      <GamepadText>
+        Okay, Kodu &lt;kodu&gt; did just what we told him.  He went to the nearest object which happens to be a rock &lt;rock&gt;.
+        But what if we want him to go to an apple &lt;apple&gt; instead?  This is where we can use a Filter to specify what we want him to look for.
+
+        Let's go back to the editor and add an apple filter to Kodu's programming so he just looks for apples &lt;apple&gt;.
+      </GamepadText>
+      <MouseText>
+        Okay, Kodu &lt;kodu&gt; did just what we told him.  He went to the nearest object which happens to be a rock &lt;rock&gt;.
+        But what if we want him to go to an apple &lt;apple&gt; instead?  This is where we can use a Filter to specify what we want him to look for.
+
+        Let's go back to the editor and add an apple filter to Kodu's programming so he just looks for apples &lt;apple&gt;.
+      </MouseText>
+      <LocalizedMouseTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>
+              Kodu &lt;kodu&gt; сделал именно то, что ты ему сказал.  Он переместился к ближайшему объекту, который оказался камнем &lt;rock&gt;.
+              Но что если мы хотим, чтобы Kodu двигался к яблоку &lt;apple&gt;?  Этот тот случай, когда можно использовать фильтр, чтобы уточнить, что именно должен искать Kodu.
+
+              Давай вернемся в режим редактирования и добавим фильтр, чтобы Kodu искал только яблоки &lt;apple&gt;.
+            </string>
+          </value>
+        </item>
+      </LocalizedMouseTextDict>
+      <TouchText>
+        Okay, Kodu &lt;kodu&gt; did just what we told him.  He went to the nearest object which happens to be a rock &lt;rock&gt;.
+        But what if we want him to go to an apple &lt;apple&gt; instead?  This is where we can use a Filter to specify what we want him to look for.
+
+        Let's go back to the editor and add an apple filter to Kodu's programming so he just looks for apples &lt;apple&gt;.
+      </TouchText>
+      <Comment>We got a rock</Comment>
+      <DisplayMode>Modal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>InGame</TargetModeGamepad>
+      <TargetModeMouse>InGame</TargetModeMouse>
+      <TargetModeTouch>InGame</TargetModeTouch>
+    </Step>
+    <Step>
+      <GoalText>Adding the apple filter &lt;filter.fruit&gt; (Step 3/6)</GoalText>
+      <LocalizedGoalTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Добавление фильтра для яблока &lt;filter.fruit&gt; (Шаг 3/6)</string>
+          </value>
+        </item>
+      </LocalizedGoalTextDict>
+      <GamepadText>
+        In the space next to the sight sensor &lt;sensor.eyes&gt; add &lt;filter.fruit&gt;  The apple can be found in the objects group &lt;group.objects&gt;.
+        When done you should have WHEN &lt;sensor.eyes&gt;&lt;filter.fruit&gt;  DO &lt;actuator.movement&gt;&lt;selector.towardclosest&gt;
+      </GamepadText>
+      <MouseText>
+        In the space next to the sight sensor &lt;sensor.eyes&gt; add &lt;filter.fruit&gt;  The apple can be found in the objects group &lt;group.objects&gt;.
+        When done you should have WHEN &lt;sensor.eyes&gt;&lt;filter.fruit&gt;  DO &lt;actuator.movement&gt;&lt;selector.towardclosest&gt;
+      </MouseText>
+      <LocalizedMouseTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>
+              Щелкни на ПЛЮСе после &lt;sensor.eyes&gt; и добавь &lt;filter.fruit&gt;.  Яблоко можно найти в группе Объекты &lt;group.objects&gt;.
+              У тебя должно получиться Когда &lt;sensor.eyes&gt;&lt;filter.fruit&gt;  Делать &lt;actuator.movement&gt;&lt;selector.towardclosest&gt;
+            </string>
+          </value>
+        </item>
+      </LocalizedMouseTextDict>
+      <TouchText>
+        In the space next to the sight sensor &lt;sensor.eyes&gt; add &lt;filter.fruit&gt;  The apple can be found in the objects group &lt;group.objects&gt;.
+        When done you should have WHEN &lt;sensor.eyes&gt;&lt;filter.fruit&gt;  DO &lt;actuator.movement&gt;&lt;selector.towardclosest&gt;
+      </TouchText>
+      <DisplayMode>NonModal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>Programming</TargetModeGamepad>
+      <TargetModeMouse>Programming</TargetModeMouse>
+      <TargetModeTouch>Programming</TargetModeTouch>
+      <CompletionTest Name="Kode" Args="sensor.eyes filter.fruit actuator.movement selector.towardclosest" />
+    </Step>
+    <Step>
+      <GoalText>Running the Game (Step 4/6)</GoalText>
+      <LocalizedGoalTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Запуск игры (Шаг 4/6)</string>
+          </value>
+        </item>
+      </LocalizedGoalTextDict>
+      <GamepadText />
+      <MouseText />
+      <TouchText />
+      <Comment>Done programming.  Pause...</Comment>
+      <DisplayMode>NonModal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>GamepadEditObject</TargetModeGamepad>
+      <TargetModeMouse>MouseEditObject</TargetModeMouse>
+      <TargetModeTouch>TouchEditObject</TargetModeTouch>
+      <CompletionTest Name="Timer" Args="0.5" />
+    </Step>
+    <Step>
+      <GoalText>Running the game (Step 4/6)</GoalText>
+      <LocalizedGoalTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Запуск игры (Шаг 4/6)</string>
+          </value>
+        </item>
+      </LocalizedGoalTextDict>
+      <GamepadText>Okay, now we can play the game again and see what happens.</GamepadText>
+      <MouseText>Okay, now we can play the game again and see what happens.</MouseText>
+      <LocalizedMouseTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Теперь можно запустить игру и посмотреть, что получилось.</string>
+          </value>
+        </item>
+      </LocalizedMouseTextDict>
+      <TouchText>Okay, now we can play the game again and see what happens.</TouchText>
+      <DisplayMode>Modal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>GamepadEditObject</TargetModeGamepad>
+      <TargetModeMouse>MouseEditObject</TargetModeMouse>
+      <TargetModeTouch>TouchEditObject</TargetModeTouch>
+    </Step>
+    <Step>
+      <GoalText>Running the Game (Step 4/6)</GoalText>
+      <LocalizedGoalTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Запуск игры (Шаг 4/6)</string>
+          </value>
+        </item>
+      </LocalizedGoalTextDict>
+      <GamepadText />
+      <MouseText />
+      <TouchText />
+      <Comment> Run the game </Comment>
+      <DisplayMode>NonModal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>InGame</TargetModeGamepad>
+      <TargetModeMouse>InGame</TargetModeMouse>
+      <TargetModeTouch>InGame</TargetModeTouch>
+      <CompletionTest Name="Timer" Args="8" />
+    </Step>
+    <Step>
+      <GoalText>Running the Game (Step 4/6)</GoalText>
+      <LocalizedGoalTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Запуск игры (Шаг 4/6)</string>
+          </value>
+        </item>
+      </LocalizedGoalTextDict>
+      <GamepadText>
+        Yeah! Kodu &lt;kodu&gt; found the apple &lt;apple&gt;.
+        Using filters we can be even more specific than that.  Notice that the apple &lt;apple&gt; Kodu &lt;kodu&gt;went to was green.
+
+        Let's add another filter so Kodu &lt;kodu&gt; only looks for red apples &lt;apple&gt;.
+      </GamepadText>
+      <MouseText>
+        Yeah! Kodu &lt;kodu&gt; found the apple &lt;apple&gt;.
+        Using filters we can be even more specific than that.  Notice that the apple &lt;apple&gt; Kodu &lt;kodu&gt;went to was green.
+
+        Let's add another filter so Kodu &lt;kodu&gt; only looks for red apples &lt;apple&gt;.
+      </MouseText>
+      <LocalizedMouseTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>
+              Ух ты! Kodu &lt;kodu&gt; действительно нашел яблоко &lt;apple&gt;.
+              Можно использовать фильтры, чтобы сузить круг поиска.  Обрати внимание, что яблоко &lt;apple&gt;, к которому двигался Kodu &lt;kodu&gt;, было зеленым.
+
+              Давай добавим другой фильтр, чтобы Kodu &lt;kodu&gt; искал только красные яблоки &lt;apple&gt;.
+            </string>
+          </value>
+        </item>
+      </LocalizedMouseTextDict>
+      <TouchText>
+        Yeah! Kodu &lt;kodu&gt; found the apple &lt;apple&gt;.
+        Using filters we can be even more specific than that.  Notice that the apple &lt;apple&gt; Kodu &lt;kodu&gt;went to was green.
+
+        Let's add another filter so Kodu &lt;kodu&gt; only looks for red apples &lt;apple&gt;.
+      </TouchText>
+      <Comment>We got an apple</Comment>
+      <DisplayMode>Modal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>InGame</TargetModeGamepad>
+      <TargetModeMouse>InGame</TargetModeMouse>
+      <TargetModeTouch>InGame</TargetModeTouch>
+    </Step>
+    <Step>
+      <GoalText>Adding the red filter &lt;filter.red&gt; (Step 5/6)</GoalText>
+      <LocalizedGoalTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Добавление фильтра &lt;filter.red&gt; (Шаг 5/6)</string>
+          </value>
+        </item>
+      </LocalizedGoalTextDict>
+      <GamepadText>
+        In the space next to the apple filter &lt;filter.fruit&gt; add &lt;filter.red&gt;.  The red filter &lt;filter.red&gt; can be found in the colors group &lt;group.colors&gt;.
+        When done you should have WHEN &lt;sensor.eyes&gt;&lt;filter.fruit&gt;&lt;filter.red&gt;  DO &lt;actuator.movement&gt;&lt;selector.towardclosest&gt;
+      </GamepadText>
+      <MouseText>
+        In the space next to the apple filter &lt;filter.fruit&gt; add &lt;filter.red&gt;.  The red filter &lt;filter.red&gt; can be found in the colors group &lt;group.colors&gt;.
+        When done you should have WHEN &lt;sensor.eyes&gt;&lt;filter.fruit&gt;&lt;filter.red&gt;  DO &lt;actuator.movement&gt;&lt;selector.towardclosest&gt;
+      </MouseText>
+      <LocalizedMouseTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>
+              Щелкни по ПЛЮСу справа от яблока &lt;filter.fruit&gt; и добавь &lt;filter.red&gt;.  Фильтр &lt;filter.red&gt; можно найти в группе &lt;group.colors&gt;.
+              У тебя должно получиться Когда &lt;sensor.eyes&gt;&lt;filter.fruit&gt;&lt;filter.red&gt;  Делать &lt;actuator.movement&gt;&lt;selector.towardclosest&gt;
+            </string>
+          </value>
+        </item>
+      </LocalizedMouseTextDict>
+      <TouchText>
+        In the space next to the apple filter &lt;filter.fruit&gt; add &lt;filter.red&gt;.  The red filter &lt;filter.red&gt; can be found in the colors group &lt;group.colors&gt;.
+        When done you should have WHEN &lt;sensor.eyes&gt;&lt;filter.fruit&gt;&lt;filter.red&gt;  DO &lt;actuator.movement&gt;&lt;selector.towardclosest&gt;
+      </TouchText>
+      <DisplayMode>NonModal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>Programming</TargetModeGamepad>
+      <TargetModeMouse>Programming</TargetModeMouse>
+      <TargetModeTouch>Programming</TargetModeTouch>
+      <CompletionTest Name="Kode" Args="sensor.eyes filter.fruit filter.red actuator.movement selector.towardclosest" />
+    </Step>
+    <Step>
+      <GoalText>Rumming the Game (Step 6/6)</GoalText>
+      <LocalizedGoalTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Запуск игры (Шаг 6/6)</string>
+          </value>
+        </item>
+      </LocalizedGoalTextDict>
+      <GamepadText />
+      <MouseText />
+      <TouchText />
+      <Comment>Done programming.  Pause...</Comment>
+      <DisplayMode>NonModal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>GamepadEditObject</TargetModeGamepad>
+      <TargetModeMouse>MouseEditObject</TargetModeMouse>
+      <TargetModeTouch>TouchEditObject</TargetModeTouch>
+      <CompletionTest Name="Timer" Args="0.5" />
+    </Step>
+    <Step>
+      <GoalText>Running the Game (Step 6/6)</GoalText>
+      <LocalizedGoalTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Запуск игры (Шаг 6/6)</string>
+          </value>
+        </item>
+      </LocalizedGoalTextDict>
+      <GamepadText>Okay, now we can play the game once again and see what happens.</GamepadText>
+      <MouseText>Okay, now we can play the game once again and see what happens.</MouseText>
+      <LocalizedMouseTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Теперь можно снова запустить игру и посмотреть, что получилось.</string>
+          </value>
+        </item>
+      </LocalizedMouseTextDict>
+      <TouchText>Okay, now we can play the game once again and see what happens.</TouchText>
+      <DisplayMode>Modal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>GamepadEditObject</TargetModeGamepad>
+      <TargetModeMouse>MouseEditObject</TargetModeMouse>
+      <TargetModeTouch>TouchEditObject</TargetModeTouch>
+    </Step>
+    <Step>
+      <GoalText>Running the Game (Step 6/6)</GoalText>
+      <LocalizedGoalTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Запуск игры (Шаг 6/6)</string>
+          </value>
+        </item>
+      </LocalizedGoalTextDict>
+      <GamepadText />
+      <MouseText />
+      <TouchText />
+      <Comment> Run the game </Comment>
+      <DisplayMode>NonModal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>InGame</TargetModeGamepad>
+      <TargetModeMouse>InGame</TargetModeMouse>
+      <TargetModeTouch>InGame</TargetModeTouch>
+      <CompletionTest Name="Timer" Args="8" />
+    </Step>
+    <Step>
+      <GoalText>Done (Step 6/6)</GoalText>
+      <LocalizedGoalTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>Готово (Шаг 6/6)</string>
+          </value>
+        </item>
+      </LocalizedGoalTextDict>
+      <GamepadText>
+        Hey we're done.  Kodu &lt;kodu&gt; found the red apple &lt;apple&gt; and now you know how to use filters when programming your characters.
+        Explore the menus to see what other useful filters you can find.
+      </GamepadText>
+      <MouseText>
+        Hey we're done.  Kodu &lt;kodu&gt; found the red apple &lt;apple&gt; and now you know how to use filters when programming your characters.
+        Explore the menus to see what other useful filters you can find.
+      </MouseText>
+      <LocalizedMouseTextDict>
+        <item>
+          <key>
+            <string>RU</string>
+          </key>
+          <value>
+            <string>
+              Эй, мы закончили.  Kodu &lt;kodu&gt; нашел красное яблоко &lt;apple&gt;, и теперь ты знаешь, как использовать фильтры при программировании персонажей.
+              Поброди по меню, поищи другие полезные фильтры, попробуй их использовать.
+            </string>
+          </value>
+        </item>
+      </LocalizedMouseTextDict>
+      <TouchText>
+        Hey we're done.  Kodu &lt;kodu&gt; found the red apple &lt;apple&gt; and now you know how to use filters when programming your characters.
+        Explore the menus to see what other useful filters you can find.
+      </TouchText>
+      <Comment>We got the red apple</Comment>
+      <DisplayMode>Modal</DisplayMode>
+      <Exclusion>None</Exclusion>
+      <TargetModeGamepad>InGame</TargetModeGamepad>
+      <TargetModeMouse>InGame</TargetModeMouse>
+      <TargetModeTouch>InGame</TargetModeTouch>
+    </Step>
+  </tutorialSteps>
+</XmlWorldData>
